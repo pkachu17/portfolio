@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pkachu17/portfolio/static/css/main.7b83e676.chunk.css",
+    "main.js": "/pkachu17/portfolio/static/js/main.a4d593bf.chunk.js",
+    "main.js.map": "/pkachu17/portfolio/static/js/main.a4d593bf.chunk.js.map",
+    "runtime-main.js": "/pkachu17/portfolio/static/js/runtime-main.7877045b.js",
+    "runtime-main.js.map": "/pkachu17/portfolio/static/js/runtime-main.7877045b.js.map",
+    "static/js/2.ec617b29.chunk.js": "/pkachu17/portfolio/static/js/2.ec617b29.chunk.js",
+    "static/js/2.ec617b29.chunk.js.map": "/pkachu17/portfolio/static/js/2.ec617b29.chunk.js.map",
+    "static/js/3.0baa5375.chunk.js": "/pkachu17/portfolio/static/js/3.0baa5375.chunk.js",
+    "static/js/3.0baa5375.chunk.js.map": "/pkachu17/portfolio/static/js/3.0baa5375.chunk.js.map",
+    "index.html": "/pkachu17/portfolio/index.html",
+    "static/css/main.7b83e676.chunk.css.map": "/pkachu17/portfolio/static/css/main.7b83e676.chunk.css.map",
+    "static/js/2.ec617b29.chunk.js.LICENSE.txt": "/pkachu17/portfolio/static/js/2.ec617b29.chunk.js.LICENSE.txt",
+    "static/media/Contact.css": "/pkachu17/portfolio/static/media/Projects.5b83cedc.jpg",
+    "static/media/Homepage.css": "/pkachu17/portfolio/static/media/profilepic.408c2578.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7877045b.js",
+    "static/js/2.ec617b29.chunk.js",
+    "static/css/main.7b83e676.chunk.css",
+    "static/js/main.a4d593bf.chunk.js"
+  ]
+}
